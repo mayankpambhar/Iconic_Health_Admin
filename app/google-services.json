@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "930782029650",
+    "project_id": "iconic-health",
+    "storage_bucket": "iconic-health.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930782029650:android:6cb93cf25f1e4df8ed7c8b",
+        "android_client_info": {
+          "package_name": "com.example.iconichealth_healthcareapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930782029650-5meicibur9835f94vlrvuv3geoqjbdov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iconichealth_healthcareapp",
+            "certificate_hash": "6fd4202834ead609959a500876aa6a0a4ec7e11a"
+          }
+        },
+        {
+          "client_id": "930782029650-frjgm13bc1205j62g872c6apmq190m17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjQwBnu9Vy1RA9WTtlE0r1G4A5XyG3xvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930782029650-frjgm13bc1205j62g872c6apmq190m17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
